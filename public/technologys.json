@@ -1,0 +1,38 @@
+[
+  {
+    "name": "JavaScript",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-javascript-48.png"
+  },
+  {
+    "name": "TypeScript",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-typescript-48.png"
+  },
+  {
+    "name": "HTML",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-html-48.png"
+  },
+  {
+    "name": "CSS",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-css-48.png"
+  },
+  {
+    "name": "Node.js",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-node-js-48.png"
+  },
+  {
+    "name": "React.js",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-react-100.png"
+  },
+  {
+    "name": "SQL",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-sql-48.png"
+  },
+  {
+    "name": "Next.js",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/nextjs.256x256.png"
+  },
+  {
+    "name": "Express.js",
+    "image": "https://storage.googleapis.com/bonuslite1/web%20tech/icons8-express-js-48.png"
+  }
+]
